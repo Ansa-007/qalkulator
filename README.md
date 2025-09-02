@@ -1,4 +1,4 @@
-# Calculator - ApexcifyTechnologys
+# Calculator 
 
 A modern, responsive calculator built with HTML, CSS, and JavaScript featuring a beautiful glassmorphism design.
 
@@ -38,7 +38,7 @@ A modern, responsive calculator built with HTML, CSS, and JavaScript featuring a
 ## File Structure
 
 ```
-ApexcifyTechnologys_Calc/
+Calculator/
 ├── index.html          # Main HTML structure
 ├── styles.css          # CSS styling and animations
 ├── script.js           # JavaScript functionality
@@ -70,4 +70,3 @@ ApexcifyTechnologys_Calc/
 
 ---
 
-Built with ❤️ by ApexcifyTechnologys
